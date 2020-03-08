@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583694698 source:e:\downloads\fci\algo\ass2\towerofhan\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/tree_policy.hpp>
+	<ext/pb_ds/assoc_container.hpp>
+
